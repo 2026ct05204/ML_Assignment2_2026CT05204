@@ -161,11 +161,11 @@ The following values are from the latest successful execution in the BITS Virtua
 
 |ML Model Name | Observation about model performance |
 |---|---|
-|- **Random Forest** achieved the highest accuracy (0.7197), ROC AUC (0.7680), F1 score (0.6627) and MCC (0.4434) in this run. It showed the strongest overall balance across these reported metrics.|
-|- **Decision Tree** achieved the highest precision (0.7822), but its recall was 0.4650.|
-|- **Logistic Regression** achieved the highest recall (0.5898) among the five models.|
-|- **KNN** achieved an accuracy of 0.6753 and an F1 score of 0.6245.|
-|- **Gaussian Naive Bayes** achieved an accuracy of 0.6713 and an AUC of 0.7203.|
+|- **Random Forest** | achieved the highest accuracy (0.7197), ROC AUC (0.7680), F1 score (0.6627) and MCC (0.4434) in this run. It showed the strongest overall balance across these reported metrics.|
+|- **Decision Tree** | achieved the highest precision (0.7822), but its recall was 0.4650.|
+|- **Logistic Regression** | achieved the highest recall (0.5898) among the five models.|
+|- **KNN** | achieved an accuracy of 0.6753 and an F1 score of 0.6245.|
+|- **Gaussian Naive Bayes** | achieved an accuracy of 0.6713 and an AUC of 0.7203.|
 
 ### Overall result
 
